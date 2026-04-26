@@ -1,3 +1,14 @@
+---
+name: leo-voice
+description: >
+  Redacta o audita cualquier texto con la voz y tono de Leo Guadarrama.
+  Úsalo para: escribir captions, scripts, emails, posts o CTAs en la voz de Leo;
+  revisar si un texto "suena como Leo"; crear contenido para Instagram, TikTok,
+  YouTube o WhatsApp. Actívalo cuando el usuario diga "escribe como Leo",
+  "en la voz de Leo", "caption para Leo", "script para Leo", "email de Leo",
+  o cualquier variante de contenido para Leo Guadarrama o @soyleotrader.
+---
+
 # Leo Voice — Voz y Tono de Leo Guadarrama
 
 ## Promesa de marca
@@ -62,20 +73,13 @@ Leo escribe con ADN de Isra Bravo. Las técnicas clave que siempre aparecen:
 - Posts educativos
 - CTAs y mensajes de comunidad (WhatsApp, Telegram)
 
-## Cuándo usar este skill
-
-- Al redactar cualquier pieza de contenido para Leo Guadarrama o su equipo
-- Al revisar o auditar texto que se publicará en nombre de Leo
-- Antes de publicar en cualquier canal — es un paso obligatorio
-- Cuando el equipo tiene dudas sobre si un texto "suena como Leo"
-
 ## Flujo
 
 ### A. Crear contenido desde cero
 1. Leer [principios.md](principios.md) — fijar los 3 pilares
 2. Identificar la audiencia: ¿nuevos o traders?
 3. Elegir plantilla en [plantillas/](plantillas/) según el canal
-4. Rellenar con datos reales. Si falta un dato (cifra, fecha, nombre de producto), preguntar antes de inventar
+4. Rellenar con datos reales. Si falta un dato, preguntar antes de inventar
 5. Aplicar [checklist.md](checklist.md)
 6. Presentar al usuario con los supuestos marcados. Esperar aprobación
 
